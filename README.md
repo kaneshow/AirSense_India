@@ -30,3 +30,9 @@ Air pollution is a major environmental and health concern in India, affecting mi
 
 ## Needs of our project
 This project serves as a valuable resource for understanding air quality issues in India, providing insights that can inform policy decisions and public awareness regarding air pollution and its effects on health.
+
+## Team Information
+- Kartik Mahajan - 23SCSE1010861
+- Mohit - 23SCSE
+- NIshat Pal - 23SCSE
+- Aditya -23SCSE
