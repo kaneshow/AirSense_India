@@ -34,5 +34,5 @@ This project serves as a valuable resource for understanding air quality issues 
 ## Team Information
 - Kartik Mahajan - 23SCSE1010861
 - Mohit - 23SCSE
-- NIshat Pal - 23SCSE
-- Aditya -23SCSE
+- NIshat Kumar - 23SCSE1010192 
+- Aditya Kumar -23SCSE1010242
