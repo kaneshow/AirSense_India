@@ -35,4 +35,4 @@ This project serves as a valuable resource for understanding air quality issues 
 - Kartik Mahajan - 23SCSE1010861
 - Mohit Tiwari - 23SCSE1180033
 - NIshat Kumar - 23SCSE1010192 
-- Aditya Kumar -23SCSE1010242
+- Aditya Kumar -23SCSE101024
