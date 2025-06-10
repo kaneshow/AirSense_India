@@ -12,10 +12,8 @@ This project analyzes air quality data from Indian cities between **2015 and 202
 - [🔧 Technologies Used](#-technologies-used)
 - [📊 Visualizations](#-visualizations)
 - [📈 Insights & Findings](#-insights--findings)
-- [📥 How to Use](#-how-to-use)
 - [📢 Project Needs & Impact](#-project-needs--impact)
 - [👨‍💻 Team Information](#-team-information)
-- [📬 Feedback](#-feedback)
 
 ---
 
@@ -113,25 +111,3 @@ Name	ID
 - Mohit Tiwari	23SCSE1180033
 - Nishat Kumar	23SCSE1010192
 - Aditya Kumar	23SCSE1010242
-
----
-
-## 📥 How to Use  
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/airsense-india.git
-cd airsense-india
-```
-### 2. Install Requirements
-```bash
-pip install -r requirements.txt
-```
-### 3. Launch Notebook
-```bash
-jupyter notebook AirSense_Analysis.ipynb
-```
-### 4. Explore Data & Visualizations
-- Modify the notebook to focus on specific cities or pollutants
-- Use filters to create custom charts and insights
-
