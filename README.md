@@ -109,5 +109,5 @@ This project serves as:
 Name	ID
 - Kartik Mahajan	23SCSE1010861
 - Mohit Tiwari	23SCSE1180033
-- Nishat Kumar	23SCSE1010192
+- Nishant Kumar	23SCSE1010192
 - Aditya Kumar	23SCSE1010242
